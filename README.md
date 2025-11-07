@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukund!
-- 👀 I’m a PhD. student working at the Max Planck Institute for Physics
-- 🌱 I’m currently working on developing and characterizing novel detectors for Direct Dark Matter searches 
+- 👀 I’m a researcher working at the Max Planck Institute for Physics
+- 🌱 I’m currently working on developing and characterizing novel quantum sensors for Direct Dark Matter searches 
 - 📫 Feel free to check out www.mukundrb.com for more info about my work:)
 
 <!---
